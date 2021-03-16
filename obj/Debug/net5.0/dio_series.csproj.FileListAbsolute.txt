@@ -1,0 +1,16 @@
+/home/lockey23/Estudando_DotNet/digitalInovation/dio_series/bin/Debug/net5.0/dio_series
+/home/lockey23/Estudando_DotNet/digitalInovation/dio_series/bin/Debug/net5.0/dio_series.deps.json
+/home/lockey23/Estudando_DotNet/digitalInovation/dio_series/bin/Debug/net5.0/dio_series.runtimeconfig.json
+/home/lockey23/Estudando_DotNet/digitalInovation/dio_series/bin/Debug/net5.0/dio_series.runtimeconfig.dev.json
+/home/lockey23/Estudando_DotNet/digitalInovation/dio_series/bin/Debug/net5.0/dio_series.dll
+/home/lockey23/Estudando_DotNet/digitalInovation/dio_series/bin/Debug/net5.0/ref/dio_series.dll
+/home/lockey23/Estudando_DotNet/digitalInovation/dio_series/bin/Debug/net5.0/dio_series.pdb
+/home/lockey23/Estudando_DotNet/digitalInovation/dio_series/obj/Debug/net5.0/dio_series.csprojAssemblyReference.cache
+/home/lockey23/Estudando_DotNet/digitalInovation/dio_series/obj/Debug/net5.0/dio_series.GeneratedMSBuildEditorConfig.editorconfig
+/home/lockey23/Estudando_DotNet/digitalInovation/dio_series/obj/Debug/net5.0/dio_series.AssemblyInfoInputs.cache
+/home/lockey23/Estudando_DotNet/digitalInovation/dio_series/obj/Debug/net5.0/dio_series.AssemblyInfo.cs
+/home/lockey23/Estudando_DotNet/digitalInovation/dio_series/obj/Debug/net5.0/dio_series.csproj.CoreCompileInputs.cache
+/home/lockey23/Estudando_DotNet/digitalInovation/dio_series/obj/Debug/net5.0/dio_series.dll
+/home/lockey23/Estudando_DotNet/digitalInovation/dio_series/obj/Debug/net5.0/ref/dio_series.dll
+/home/lockey23/Estudando_DotNet/digitalInovation/dio_series/obj/Debug/net5.0/dio_series.pdb
+/home/lockey23/Estudando_DotNet/digitalInovation/dio_series/obj/Debug/net5.0/dio_series.genruntimeconfig.cache
